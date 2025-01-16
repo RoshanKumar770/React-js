@@ -89,3 +89,8 @@ print(name)
 exp = "3+4"
 result=eval(exp)
 print(result)
+
+ #Assignment Operator
+ 
+x = y = z = 5
+print(x, y, z) 
